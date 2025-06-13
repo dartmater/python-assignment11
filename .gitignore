@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+#Python cache
+__pycache__/
+
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+#Environment variables
+
+.environment
+
+#Logs
+
+*.log 
+
+#vs
+
+.vscode/
+
+.ipynb_checkpoints/
+
